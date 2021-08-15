@@ -146,6 +146,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-.modules/
+.app/modules/
 run.py
 # End of https://www.toptal.com/developers/gitignore/api/flask
