@@ -1,1 +1,1 @@
-app/templates/ inguist-detectable=false
+*.html linguist-detectable=false
